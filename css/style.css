@@ -19,8 +19,8 @@ ul {list-style: none;}
 .login>li>a:hover {color: #aaa;}
 /* top finish */
 /* video start */
-#video {height: 780px; background-color: #333;}
-/* .advertise {} */
+#video {width: 100%; height: 780px; background-color: #333; display: block;}
+#video video {width: 100%;}
 /* video finish */
 /* cont1 start */
 #cont1 {height: 700px; background: url(../images/vitalsign.png); background-size: cover;}
