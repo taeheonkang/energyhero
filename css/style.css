@@ -19,7 +19,7 @@ ul {list-style: none;}
 .login>li>a:hover {color: #aaa;}
 /* top finish */
 /* video start */
-#video {height: 780px; background-color: white; display: block;}
+#video {background-color: white; display: block;}
 #video video {width: 100%;}
 /* video finish */
 /* cont1 start */
